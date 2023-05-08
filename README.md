@@ -1,2 +1,2 @@
 # Voice-controlled Synthesizer
-A synthesizer that accept voice commands to play sound and control the synth's parameters.
+A synthesizer that accepts voice commands to play sound and control the synth's parameters.
