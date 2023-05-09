@@ -4,10 +4,15 @@ A synthesizer that accepts voice commands to play sound and control the synth's 
 
 ## Introduction
 <br>
-<p align="center">
-  <img src="images/speech_rec_pic.png" width="400" height="400" align="left"/>
-  <img src="images/synth_pic.jpeg" width="500" height="200" align="right"/>
-</p>
+<div style="display:flex">
+     <div style="flex:1;padding-right:10px;">
+          <img src="images/speech_rec_pic.png" width="400" height="400"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="images/synth_pic.jpeg" width="500" height="200"/>
+     </div>
+</div>
+
  
 <br>
 This project explores a new way of making music by using voice commands. So, instead of turning the knobs or moving the faders up and down, you can issue a voice command and the computer can do it for you. This add-on feature could benefit those who have weakness in hands that won't allow them to use the physical synth for a long time.
