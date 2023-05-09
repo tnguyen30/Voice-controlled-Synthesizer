@@ -47,9 +47,9 @@ This project is still at its early stage. There are various things needed to be 
 
 ----
 ## References
-Python script is based on VOSK API developers' code [here](https://github.com/alphacep/vosk-api/blob/master/python/example/test_microphone.py)
+Python script is based on VOSK API developers' [code](https://github.com/alphacep/vosk-api/blob/master/python/example/test_microphone.py)
 <br>
-SuperCollider script is based on SCAMP developers' code [here](https://www.youtube.com/watch?v=K2jZOdWegL8&ab_channel=MarcEvanstein%2Fmusic%E2%80%A4py)
+SuperCollider script is based on SCAMP developers' [code](https://www.youtube.com/watch?v=K2jZOdWegL8&ab_channel=MarcEvanstein%2Fmusic%E2%80%A4py)
 <br>
 Block diagram, Python and SC script example by Tien Nguyen
 
