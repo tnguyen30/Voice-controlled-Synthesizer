@@ -27,7 +27,7 @@ Singal flow block diagram:
 <br><br>
 <img src="images/blockdiagram.png"/>
 <br><br>
-Python and SC script:
+Python and SC script example:
 <br><br>
 <img src="images/app_ss.png" width="600" height="350"/>
 <br><br>
@@ -58,7 +58,7 @@ Speech recognition image by Smashing Stocks: [Link](https://iconscout.com/icon/s
 <br>
 Synthesizer image by TONAL AXiS: [Link](https://tonalaxis.wordpress.com/2017/01/03/synth-art/)
 <br>
-Block diagram by Tien Nguyen
+Block diagram, Python and SC script example by Tien Nguyen
 <br>
 Python script is based on VOSK API developers' code [here](https://github.com/alphacep/vosk-api/blob/master/python/example/test_microphone.py)
 <br>
