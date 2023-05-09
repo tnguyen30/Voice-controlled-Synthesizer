@@ -16,7 +16,7 @@ Singal flow block diagram:
 <br><br>
 <img src="images/blockdiagram3.jpg" width="400" height="300"/>
 <br><br>
-Python and SC script:
+Python and SC script example:
 <br><br>
 <img src="images/app_ss.png" width="600" height="350"/>
 <br><br>
@@ -27,7 +27,7 @@ To run the test script, you will need to instal VOSK API (instructions are [here
 <br><br>
 In addition to the speech recognition package, I used another Python library called SCAMP (Suite for Computer-Assisted Music in Python) to establish the OSC communication. Here are its [documentation](http://scamp.marcevanstein.com/) and [installation](https://pypi.org/project/scamp/). I also include the tutorial [link](https://www.youtube.com/watch?v=K2jZOdWegL8&ab_channel=MarcEvanstein%2Fmusic%E2%80%A4py) made by Marc Evanstein on how to get SCAMP on SuperCollider. Alternatively, you can just establish a simpler [OSC communication](https://doc.sccode.org/Guides/OSC_communication.html) and that would require you to modify the scripts.
 <br><br>
-Finally, you can dowload the ().py and ().sc in this repository to your computer. Make sure to open the SuperCollider file while running the Python file and modify both scripts as needed.
+Finally, you can dowload the ().py and ().sc in this repository to your computer. Make sure to open the SuperCollider file while running the Python file.
 <br><br>
 
 ----
