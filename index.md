@@ -58,8 +58,8 @@ Speech recognition image by Smashing Stocks: [Link](https://iconscout.com/icon/s
 <br>
 Synthesizer image by TONAL AXiS: [Link](https://tonalaxis.wordpress.com/2017/01/03/synth-art/)
 <br>
-Block diagram, Python and SC script example by Tien Nguyen
-<br>
 Python script is based on VOSK API developers' code [here](https://github.com/alphacep/vosk-api/blob/master/python/example/test_microphone.py)
 <br>
 SuperCollider script is based on SCAMP developers' code [here](https://www.youtube.com/watch?v=K2jZOdWegL8&ab_channel=MarcEvanstein%2Fmusic%E2%80%A4py)
+<br>
+Block diagram, Python and SC script example by Tien Nguyen
