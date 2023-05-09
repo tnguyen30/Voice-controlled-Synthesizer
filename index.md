@@ -1,7 +1,7 @@
 A synthesizer that accepts voice commands to play sound and control the synth's parameters.
 
 <br>
----
+----
 
 ## Introduction
 <br>
@@ -19,7 +19,7 @@ A synthesizer that accepts voice commands to play sound and control the synth's 
 This project explores a new way of making music by using voice commands. So, instead of turning the knobs or moving the faders up and down, you can issue a voice command and the computer can do it for you. This add-on feature could benefit those who have weakness in hands that won't allow them to use the physical synth for a long time.
 
 <br>
----
+----
 
 ## Methods
 Speech recognition and synthesizer are the two main topics covered in this project.
@@ -31,19 +31,19 @@ Singal flow block diagram:
 <br>
 
 <br>
----
+----
 
 ## Demonstration video
 video...
 
 <br>
----
+----
 
 ## Installation
 If you're interested in trying out the prototype, please navigate to my [GitHub repository](https://github.com/tnguyen30/Voice-controlled-Synthesizer) for further instructions.
 
 <br>
----
+----
 
 ## Conclusion and further actions
 This project is still at its early stage. There are various things needed to be fixed and changed for the synthesizer to achieve its stable form. Right now, its actions are quite straightforward, therefore, some other actions that I hope it can do include:
@@ -54,7 +54,7 @@ This project is still at its early stage. There are various things needed to be 
 - Extend the audio effect library such as modulation, dynamic, and EQ
 
 <br>
----
+----
 
 ## References
 Speech recognition image by Smashing Stocks: [Link](https://iconscout.com/icon/speech-recognition-2548780)
