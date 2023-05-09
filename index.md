@@ -27,12 +27,23 @@ For the speech recognition sofware, I explored both Python online and offline en
 Singal flow block diagram:
 <br><br>
 <img src="images/blockdiagram.png"/>
+<br>
 
 
 ---
 
-## Concluding thoughts and further goals
-As you can tell, this project is still at its early stage. There are various things needed to be fixed and changed for the synthesizer to achieve its stable form. Some further goals that I'm aiming for right now including:
+## Demonstration video
+video...
+
+---
+
+## Installation
+If you're interested in trying out the prototype, please navigate to my [GitHub repository](https://github.com/tnguyen30/Voice-controlled-Synthesizer) for further instructions.
+
+---
+
+## Conclusion and further actions
+As you can tell, this project is still at its early stage. There are various things needed to be fixed and changed for the synthesizer to achieve its stable form. Right now, its actions are quite straightforward, therefore, some other actions that I hope it can do include:
 
 - Detect voice command during the playback
 - Ability to record and save both the built-in sounds and from the input mic
@@ -43,3 +54,8 @@ As you can tell, this project is still at its early stage. There are various thi
 ---
 
 ## References
+Speech recognition image by Smashing Stocks: [Link](https://iconscout.com/icon/speech-recognition-2548780)
+Synthesizer image by TONAL AXiS: [Link](https://tonalaxis.wordpress.com/2017/01/03/synth-art/)
+Block diagram by Tien Nguyen
+Python script is based on VOSK API developers' code [here](https://github.com/alphacep/vosk-api/blob/master/python/example/test_microphone.py)
+SuperCollider script is based on SCAMP developers' code [here](https://www.youtube.com/watch?v=K2jZOdWegL8&ab_channel=MarcEvanstein%2Fmusic%E2%80%A4py)
