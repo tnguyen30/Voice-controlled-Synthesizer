@@ -4,7 +4,7 @@ A synthesizer that accepts voice commands to play sound and control the synth's 
 
 ## Introduction
 <br>
-<img src="images/speech_rec_pic.png" width="800" height="600"/>
+<img src="images/speech_rec_pic.png" width="600" height="400"/> <img src="images/synth_pic.jpeg" width="400" height="100"/>
 <br>
 This project explores a new way of making music by using voice commands. So, instead of turning the knobs or moving the faders up and down, you can issue a voice command and the computer can do it for you. This add-on feature could benefit those who have weakness in hands that won't allow them to use the physical synth for a long time.
 
@@ -15,7 +15,7 @@ Speech recognition and synthesizer are the two main topics covered in this proje
 For the speech recognition sofware, I explored both Python online and offline engines. Primarily, [Google Speech Recognition](https://pypi.org/project/SpeechRecognition/) (online) and [VOSK API](https://alphacephei.com/vosk/) (offline). There's a significant delay in recognizing your voice in the Google Speech recognition engine, thus I ended up using VOSK API, which was faster and more reliable. For the synthesizer software, I used a platform called [SuperCollider](https://supercollider.github.io/), which where I got all the sounds and music from by establishing OSC communication between Python and SuperCollider.
 
 Singal flow block diagram:
-<br>
+<br><br>
 <img src="images/blockdiagram.png"/>
 
 ---
