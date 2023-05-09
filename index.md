@@ -8,7 +8,7 @@ A synthesizer that accepts voice commands to play sound and control the synth's 
      <div style="flex:1;padding-right:10px;">
           <img src="images/speech_rec_pic.png" width="400" height="400"/>
      </div>
-     <div style="flex:1;padding-left:10px;">
+     <div style="flex:1;padding:10px;">
           <img src="images/synth_pic.jpeg" width="500" height="200"/>
      </div>
 </div>
