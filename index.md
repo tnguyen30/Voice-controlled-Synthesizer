@@ -22,7 +22,7 @@ This project explores a new way of making music by using voice commands. So, ins
 
 ## Methods
 Speech recognition and synthesizer are the two main topics covered in this project.
-For the speech recognition sofware, I explored both Python online and offline engines. Primarily, [Google Speech Recognition](https://pypi.org/project/SpeechRecognition/) (online) and [VOSK API](https://alphacephei.com/vosk/) (offline). There's a significant delay in recognizing your voice in the Google Speech recognition engine, thus I ended up using VOSK API, which was faster and more reliable. For the synthesizer software, I used a platform called [SuperCollider](https://supercollider.github.io/), which where I got all the sounds and music from by establishing OSC communication between Python and SuperCollider.
+For the speech recognition sofware, I explored both Python online and offline engines. Primarily, [Google Speech Recognition](https://pypi.org/project/SpeechRecognition/) (online) and [VOSK API](https://alphacephei.com/vosk/) (offline). There's a significant delay in recognizing your voice in the Google Speech recognition engine, thus I ended up using VOSK API, which was faster and more reliable. For the synthesizer software, I used a platform called [SuperCollider](https://supercollider.github.io/), where I got all the sounds and music from by establishing OSC communication between Python and SuperCollider.
 
 Singal flow block diagram:
 <br><br>
@@ -55,7 +55,11 @@ As you can tell, this project is still at its early stage. There are various thi
 
 ## References
 Speech recognition image by Smashing Stocks: [Link](https://iconscout.com/icon/speech-recognition-2548780)
+<br>
 Synthesizer image by TONAL AXiS: [Link](https://tonalaxis.wordpress.com/2017/01/03/synth-art/)
+<br>
 Block diagram by Tien Nguyen
+<br>
 Python script is based on VOSK API developers' code [here](https://github.com/alphacep/vosk-api/blob/master/python/example/test_microphone.py)
+<br>
 SuperCollider script is based on SCAMP developers' code [here](https://www.youtube.com/watch?v=K2jZOdWegL8&ab_channel=MarcEvanstein%2Fmusic%E2%80%A4py)
