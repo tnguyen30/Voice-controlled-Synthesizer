@@ -39,7 +39,7 @@ video...
 
 ----
 ## Installation
-If you're interested in trying out the prototype, please navigate to my [GitHub repository](https://github.com/tnguyen30/Voice-controlled-Synthesizer) for further instructions.
+If you're interested in trying out the prototype, please navigate to my [GitHub repository](https://github.com/tnguyen30/Voice-controlled-Synthesizer#installation) for further instructions.
 <br><br>
 
 ----
