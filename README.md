@@ -18,7 +18,7 @@ Singal flow block diagram:
 <br><br>
 Python and SC script:
 <br><br>
-<img src="images/app_ss.png" width="400" height="300"/>
+<img src="images/app_ss.png" width="600" height="500"/>
 <br><br>
 
 ----
