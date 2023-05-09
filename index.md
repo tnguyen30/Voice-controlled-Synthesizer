@@ -5,12 +5,13 @@ A synthesizer that accepts voice commands to play sound and control the synth's 
 ## Introduction
 <br>
 <p float="left">
-  <img src="images/speech_rec_pic.png" width="200" height="200"/>
-  <img src="images/synth_pic.jpeg" width="400" height="300"/>
+  <img src="images/speech_rec_pic.png" width="350" height="350"/>
+  <img src="images/synth_pic.jpeg" width="450" height="200"/>
 </p>
  
 <br>
 This project explores a new way of making music by using voice commands. So, instead of turning the knobs or moving the faders up and down, you can issue a voice command and the computer can do it for you. This add-on feature could benefit those who have weakness in hands that won't allow them to use the physical synth for a long time.
+
 
 ---
 
@@ -21,6 +22,7 @@ For the speech recognition sofware, I explored both Python online and offline en
 Singal flow block diagram:
 <br><br>
 <img src="images/blockdiagram.png"/>
+
 
 ---
 
