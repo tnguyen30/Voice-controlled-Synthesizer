@@ -14,7 +14,7 @@ For the speech recognition sofware, I explored both Python online and offline en
 
 Singal flow block diagram:
 <br><br>
-<img src="images/blockdiagram2.pdf" width="400" height="300"/>
+<img src="images/blockdiagram3.jpg" width="400" height="300"/>
 <br><br>
 
 ----
