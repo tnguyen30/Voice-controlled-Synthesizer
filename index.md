@@ -4,7 +4,7 @@ A synthesizer that accepts voice commands to play sound and control the synth's 
 
 ## Introduction
 <br>
-<p align="middle">
+<p float="left">
   <img src="images/speech_rec_pic.png" width="400" height="400"/>
   <img src="images/synth_pic.jpeg" width="500" height="200"/>
 </p>
