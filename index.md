@@ -54,12 +54,12 @@ This project is still at its early stage. There are various things needed to be 
 
 ----
 ## References
-Speech recognition image by Smashing Stocks: [Link](https://iconscout.com/icon/speech-recognition-2548780)
+Speech recognition image by [Smashing Stocks](https://iconscout.com/icon/speech-recognition-2548780)
 <br>
-Synthesizer image by TONAL AXiS: [Link](https://tonalaxis.wordpress.com/2017/01/03/synth-art/)
+Synthesizer image by [TONAL AXiS](https://tonalaxis.wordpress.com/2017/01/03/synth-art/)
 <br>
-Python script is based on VOSK API developers' code [here](https://github.com/alphacep/vosk-api/blob/master/python/example/test_microphone.py)
+Python script is based on VOSK API developers' [code](https://github.com/alphacep/vosk-api/blob/master/python/example/test_microphone.py)
 <br>
-SuperCollider script is based on SCAMP developers' code [here](https://www.youtube.com/watch?v=K2jZOdWegL8&ab_channel=MarcEvanstein%2Fmusic%E2%80%A4py)
+SuperCollider script is based on SCAMP developers' [code](https://www.youtube.com/watch?v=K2jZOdWegL8&ab_channel=MarcEvanstein%2Fmusic%E2%80%A4py)
 <br>
 Block diagram, Python and SC script example by Tien Nguyen
