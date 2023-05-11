@@ -36,6 +36,7 @@ Python and SC script example:
 
 ----
 ## Demonstration video
+Click the image will direct you to the YouTube video!
 [![Voice controlled synth demo](https://i.imgur.com/TtU40cK.png)](https://youtu.be/R76UQo0t6Bk "Voice-controlled Synthesizer Demo!")
 
 
