@@ -1,7 +1,9 @@
 # Voice-controlled Synthesizer
 A synthesizer that accepts voice commands to play sound and control the synth's parameters.
 <br>
--: *-- a capstone project by Tien Nguyen*
+<p align="right">
+*-- a capstone project by Tien Nguyen*
+</p>
 <br><br>
 
 ----
