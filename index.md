@@ -1,4 +1,6 @@
 A synthesizer that accepts voice commands to play sound and control the synth's parameters.
+<br>
+*-- a capstone project by Tien Nguyen*
 <br><br>
 
 ----
@@ -34,8 +36,10 @@ Python and SC script example:
 
 ----
 ## Demonstration video
-video...
-<br>
+
+https://github.com/tnguyen30/Voice-controlled-Synthesizer/assets/116029844/039cdc9e-b51a-414f-a0e6-2e8c42c22a05
+
+
 
 ----
 ## Installation
