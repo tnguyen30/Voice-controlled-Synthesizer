@@ -29,13 +29,15 @@ To run the test script, you will need to instal VOSK API (instructions are [here
 <br><br>
 In addition to the speech recognition package, I used another Python library called SCAMP (Suite for Computer-Assisted Music in Python) to establish the OSC communication. Here are its [documentation](http://scamp.marcevanstein.com/) and [installation](https://pypi.org/project/scamp/). I also include the tutorial [link](https://www.youtube.com/watch?v=K2jZOdWegL8&ab_channel=MarcEvanstein%2Fmusic%E2%80%A4py) made by Marc Evanstein on how to get SCAMP on SuperCollider. Alternatively, you can just establish a simpler [OSC communication](https://doc.sccode.org/Guides/OSC_communication.html) and that would require you to modify the scripts.
 <br><br>
-Finally, you can dowload the ().py and ().sc in this repository to your computer. Make sure to open the SuperCollider file while running the Python file.
+Finally, you can dowload the vosk_testsc.py and sc_test.sc in this repository to your computer. Make sure to open the SuperCollider file while running the Python file.
 <br><br>
 
 ----
 
 ## Demonstration
-video...
+
+https://github.com/tnguyen30/Voice-controlled-Synthesizer/assets/116029844/179805c2-c3ee-4cdf-b207-fb745f9c437c
+
 
 ----
 ## Conclusion and further actions
