@@ -2,7 +2,7 @@
 A synthesizer that accepts voice commands to play sound and control the synth's parameters.
 <br>
 <p align="right">
-*-- a capstone project by Tien Nguyen*
+<*-- a capstone project by Tien Nguyen*>
 </p>
 <br><br>
 
